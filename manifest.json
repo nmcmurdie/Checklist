@@ -3,5 +3,8 @@
     "name": "Checklist",
     "short_name": "Checklist",
     "description": "A simple checklist chrome extension with sync, among other useful features.",
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "browser_action": {
+    	"default_popup": "popup/index.html"
+    }
 }
