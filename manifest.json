@@ -1,0 +1,7 @@
+{
+	"manifest_version": 2,
+    "name": "Checklist",
+    "short_name": "Checklist",
+    "description": "A simple checklist chrome extension with sync, among other useful features.",
+    "version": "0.1.0"
+}
